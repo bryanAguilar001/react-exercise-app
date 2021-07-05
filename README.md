@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# [React App](https://linkedin-clone-react-app.netlify.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project has been generated with [React JS](https://es.reactjs.org/) version ^17.0.2.
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This project presents the construction of an application built from scratch using React Js, the site is fully responsive and contains animations that enhance the user experience. Your users should be able to:
 
-### `npm start`
+- View the optimal layout for the site based on your device's screen size
+- View scrolling states for all interactive elements on the page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Step 1:
 
-### `npm test`
+You will need to have Node> = 10.16 and npm> = 5.6 installed on your computer.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Step 2:
 
-### `npm run build`
+Clone or download the project with the following command
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+git clone https://github.com/bryanAguilar001/react-exercise-app.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Step 3:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install the required dependencies with the following command:
 
-### `npm run eject`
+```
+npm i
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Step 4:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Run the project (in production or development environment) using the command `npm run start: dev` or` npm run start: prod` to start the application. Navigate to `http: // localhost: 3000 /`. The application will reload automatically if you change any of the source files.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Links
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Live Demo URL: []()
 
-## Learn More
+## My process
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Built with
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Semantic HTML5 markup
+- CSS custom properties (styled components)
+- React JS
 
-### Code Splitting
+## What I learned
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- React Router
+- Add styled components
+- Create a responsive navbar with styled componets
 
-### Analyzing the Bundle Size
+## Packages
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* env-cmd `^10.1.0`:
+* react-router-dom `^5.2.0`:
+* styled-components `^5.3.0`:
 
-### Making a Progressive Web App
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Website - [bryanaguilar](https://www.bryan-aguilar.com/)
+- Medium - [bryanaguilar6174](https://bryanaguilar6174.medium.com/)
+- LinkeIn - [bryanaguilar6174](https://www.linkedin.com/in/bryanaguilar6174)
 
-### Advanced Configuration
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 
