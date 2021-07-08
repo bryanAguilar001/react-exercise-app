@@ -1,4 +1,4 @@
-# [React App](https://linkedin-clone-react-app.netlify.app/)
+# [React App]()
 
 This project has been generated with [React JS](https://es.reactjs.org/) version ^17.0.2.
 
@@ -55,14 +55,17 @@ Run the project (in production or development environment) using the command `np
 
 ## Packages
 
-* env-cmd `^10.1.0`:
-* react-router-dom `^5.2.0`:
-* styled-components `^5.3.0`:
+* env-cmd `^10.1.0`: Environment management package
+* react-router-dom `^5.2.0`: React router
+* styled-components `^5.3.0`: Custom components
+* bootstrap `^5.0.2`: Boostrap Styles
+* node-sass `^6.0.1`: SCSS Compiler
+* fontawesome-icons: [Icons fontawesome](https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react)
 
 ## Author
 
-- Website - [bryanaguilar](https://www.bryan-aguilar.com/)
-- Medium - [bryanaguilar6174](https://bryanaguilar6174.medium.com/)
+- Website - [www.bryan-aguilar.com](https://www.bryan-aguilar.com/)
+- Medium - [@bryanaguilar6174](https://bryanaguilar6174.medium.com/)
 - LinkeIn - [bryanaguilar6174](https://www.linkedin.com/in/bryanaguilar6174)
 
 ## Contributing
