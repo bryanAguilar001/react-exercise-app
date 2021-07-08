@@ -1,0 +1,3 @@
+export const LAYOUT_TYPES = {
+    SHOW_HIDE_LEFTNAV : 'SHOW_HIDE_LEFTNAV',
+}

@@ -50,8 +50,9 @@ Run the project (in production or development environment) using the command `np
 ## What I learned
 
 - React Router
-- Add styled components
-- Create a responsive navbar with styled componets
+- Add scss styles
+- Create components
+- Use context in React
 
 ## Packages
 
