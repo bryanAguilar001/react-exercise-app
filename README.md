@@ -53,6 +53,9 @@ Run the project (in production or development environment) using the command `np
 - Add scss styles
 - Create components
 - Use context in React
+- Created development and production environment
+- Private and public routes
+- React Hooks
 
 ## Packages
 

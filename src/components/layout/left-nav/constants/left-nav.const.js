@@ -3,6 +3,31 @@ import { faBookmark, faChartLine, faClipboard, faCog, faComment, faHeart, faUser
 
 export const LEFT_NAV_MENUS = [
     {
+        title: 'Temporal',
+        links: [
+            {
+                icon: faUser,
+                name: 'home',
+                link: '/'
+            },
+            {
+                icon: faUser,
+                name: 'public',
+                link: '/public'
+            },
+            {
+                icon: faUser,
+                name: 'private1',
+                link: '/private1'
+            },
+            {
+                icon: faUser,
+                name: 'private2',
+                link: '/private2'
+            },
+        ]
+    },
+    {
         title: 'My Account',
         links: [
             {
