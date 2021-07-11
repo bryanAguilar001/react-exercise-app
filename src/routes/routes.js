@@ -12,6 +12,7 @@ import LoginView from '../views/LoginView';
 import PrivateView from '../views/Private1View';
 import Private2View from '../views/Private2View';
 import View404 from '../views/404';
+import UserRoutes from '../modules/user/user-routing.routes';
 
 const Routes = () => {
 
@@ -20,6 +21,12 @@ const Routes = () => {
     return (
         <Switch>
             <PublicRoute exact path='/' component={HomeView}/>
+
+            {/* User module */}
+            <Route path="/user">
+                <UserRoutes/>
+            </Route>
+
             <PublicRoute exact path='/about' component={AboutView}/>
             <PublicRoute exact path='/public' component={PublicView}/>
             <PublicRoute exact path='/login' component={LoginView}/>

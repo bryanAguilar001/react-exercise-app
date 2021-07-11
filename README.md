@@ -1,4 +1,4 @@
-# [React App]()
+# React App
 
 This project has been generated with [React JS](https://es.reactjs.org/) version ^17.0.2.
 
@@ -35,10 +35,6 @@ Step 4:
 
 Run the project (in production or development environment) using the command `npm run start: dev` or` npm run start: prod` to start the application. Navigate to `http: // localhost: 3000 /`. The application will reload automatically if you change any of the source files.
 
-## Links
-
-- Live Demo URL: []()
-
 ## My process
 
 ### Built with
@@ -56,6 +52,7 @@ Run the project (in production or development environment) using the command `np
 - Created development and production environment
 - Private and public routes
 - React Hooks
+- Use modules in React (similar to Angular)
 
 ## Packages
 

@@ -1,1 +1,1 @@
-export const isAuthenticated = () => false; //sessionstorage.getItem('token') ? true : false;
+export const isAuthenticated = () => true; //sessionstorage.getItem('token') ? true : false;
